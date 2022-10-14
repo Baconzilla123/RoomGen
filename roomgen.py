@@ -24,9 +24,15 @@ class rooms:
             "t":False,
             "b":True,
         },
-        tb = {
+        tr = {
             "l":False,
+            "r":True,
+            "t":True,
+            "b":False,
+        },
+        tl = {
+            "l":True,
             "r":False,
-            "t":False,
+            "t":True,
             "b":False,
         },
